@@ -1,0 +1,11 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\bin\Debug\Dinamik_Arac.exe.config
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\bin\Debug\Dinamik_Arac.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\bin\Debug\Dinamik_Arac.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.Properties.Resources.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Dinamik_Arac\obj\Debug\Dinamik_Arac.pdb
